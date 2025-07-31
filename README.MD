@@ -1,4 +1,5 @@
 # Sistema de Registro
+Este es solo un ejemplo
 
 - Estado del proyecto: En construcción.
 🧠 Sistema de Registro — Proyecto en construcción 🚧
