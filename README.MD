@@ -1,6 +1,11 @@
 # Sistema de Registro
-Este es solo un ejemplo
 
+
+Para ejecutar el sistema, debes poner:
+```npm install react````
+
+
+Este es solo un ejemplo
 - Estado del proyecto: En construcción.
 🧠 Sistema de Registro — Proyecto en construcción 🚧
 ¡Bienvenido al repositorio oficial del Sistema de Registro de usuarios desarrollado por Ruuds!
